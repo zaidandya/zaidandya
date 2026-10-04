@@ -8,11 +8,15 @@ Information System and Technology @ Bandung Institute of Technology.
 
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=py,c)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
 
-**Web Development**
+**Frontend**
 
-[![Web Dev](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
+
+**Backend**
+
+[![Backend](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 
 **Developer Tools**
 
