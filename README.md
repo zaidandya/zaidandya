@@ -1,6 +1,6 @@
 ## Hello! I am Zaidan Dhiyaurrahman
 
-Information System and Technology @ Bandung Institute of Technology.
+Information System and Technology @ Institut Teknologi Bandung.
 
 ---
 
